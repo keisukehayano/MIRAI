@@ -1,0 +1,336 @@
+.mediaViewInfo {
+	--web-view-name: Form – 8;
+	--web-view-id: answer_page;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: answer_page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#answer_page {
+	position: relative;
+	background: radial-gradient(rgba(8,46,96,1) 0%, rgba(1,16,43,0.91) 100%);
+	width: 375px;
+	height: 812px;
+	overflow: hidden;
+	--web-view-name: Form – 8;
+	--web-view-id: answer_page;
+	--web-enable-deep-linking: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+#Groupe_70 {
+	transform: matrix(1,0,0,1,84.9999,153) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 140px;
+	height: 140px;
+	left: 0px;
+	top: -320px;
+	overflow: visible;
+	z-index: 50;
+}
+.Ellipse_173 {
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_67 {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 10px;
+	top: 10px;
+	overflow: visible;
+}
+#Groupe_63 {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_172 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.ID8427483613959e03f2df3a7e6511 {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 72.333px;
+	left: 0px;
+	top: 24px;
+}
+#___ {
+	position: absolute;
+	left: 45px;
+	top: 88.5px;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: HGPSoeiPresenceEB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(9,44,91,0.8);
+}
+#Groupe_69 {
+	transform: matrix(1,0,0,1,85,519.0001) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 140px;
+	height: 140px;
+	left: 0px;
+	top: 320px;
+	overflow: visible;
+	z-index: 50;
+}
+.Ellipse_174 {
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_62 {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	left: 10px;
+	top: 10px;
+	overflow: visible;
+}
+.Ellipse_172_A4_Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+.d1ebc83229de25344c61dc94eafe40 {
+	position: absolute;
+	overflow: visible;
+	width: 31.092px;
+	height: 105px;
+	left: 0px;
+	top: 8px;
+}
+#__ {
+	position: absolute;
+	left: 55px;
+	top: 88.5px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: HGPSoeiPresenceEB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(9,44,91,0.8);
+}
+#Groupe_68 {
+	display: none;
+	transform: matrix(1,0,0,1,-0.4646,384.0001) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 94.396px;
+	height: 43.981px;
+	left: -105px;
+	top: 0px;
+	overflow: visible;
+}
+#AI {
+	filter: drop-shadow(10px 13px 87px rgba(0, 0, 0, 0.961));
+	position: absolute;
+	left: 37px;
+	top: 15px;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: Showcard Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(122,186,235,1);
+}
+#Groupe_22 {
+	position: absolute;
+	width: 94.396px;
+	height: 25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#S {
+	filter: drop-shadow(10px 13px 87px rgba(0, 0, 0, 0.961));
+	position: absolute;
+	left: 0px;
+	top: 45px;
+	overflow: visible;
+	width: 11px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: Showcard Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(122,186,235,1);
+}
+#N {
+	filter: drop-shadow(10px 13px 87px rgba(0, 0, 0, 0.961));
+	position: absolute;
+	left: 84px;
+	top: 45px;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: Showcard Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(122,186,235,1);
+}
+#N_A4_Text_6 {
+	filter: drop-shadow(10px 13px 87px rgba(0, 0, 0, 0.961));
+	position: absolute;
+	left: 98px;
+	top: 45px;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: Showcard Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(122,186,235,1);
+}
+#E {
+	filter: drop-shadow(10px 13px 87px rgba(0, 0, 0, 0.961));
+	position: absolute;
+	left: 42px;
+	top: 45px;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: Showcard Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(122,186,235,1);
+}
+#E_A4_Text_8 {
+	filter: drop-shadow(10px 13px 87px rgba(0, 0, 0, 0.961));
+	position: absolute;
+	left: 70px;
+	top: 45px;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: Showcard Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(122,186,235,1);
+}
+#R {
+	filter: drop-shadow(10px 13px 87px rgba(0, 0, 0, 0.961));
+	position: absolute;
+	left: 28px;
+	top: 45px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: Showcard Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(122,186,235,1);
+}
+#C {
+	filter: drop-shadow(10px 13px 87px rgba(0, 0, 0, 0.961));
+	position: absolute;
+	left: 14px;
+	top: 45px;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: Showcard Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(122,186,235,1);
+}
+#A {
+	filter: drop-shadow(10px 13px 87px rgba(0, 0, 0, 0.961));
+	position: absolute;
+	left: 56px;
+	top: 45px;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	line-height: 540px;
+	margin-top: -260px;
+	text-align: center;
+	font-family: Showcard Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(122,186,235,1);
+}
+.Logo {
+	width: 107px;
+	height: 139px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,241,337) rotate(90deg);
+	transform-origin: center;
+}
+
+#Logo {
+	display: none;
+}

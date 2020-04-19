@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="213.738" height="92" viewBox="0 0 213.738 92">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #208fe5;
+        stroke: #208fe5;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Groupe_51" data-name="Groupe 51" transform="translate(94.738 -609)">
+    <path id="Tracé_235" data-name="Tracé 235" class="cls-1" d="M0,.09H19.573" transform="translate(30.949 642.11)"/>
+    <path id="Tracé_237" data-name="Tracé 237" class="cls-1" d="M0,3.826H10.3" transform="translate(52.274 639.018) rotate(38.8)"/>
+    <g id="Ellipse_114" data-name="Ellipse 114" class="cls-1" transform="translate(29 641)">
+      <circle class="cls-4" cx="1.5" cy="1.5" r="1.5"/>
+      <circle class="cls-5" cx="1.5" cy="1.5" r="1"/>
+    </g>
+    <path id="Tracé_265" data-name="Tracé 265" class="cls-2" d="M11.616.032H139.289" transform="translate(-85.259 687.825)"/>
+    <path id="Tracé_231" data-name="Tracé 231" class="cls-1" d="M10.948.125H134.579" transform="translate(-83.549 622.018)"/>
+    <path id="Tracé_247" data-name="Tracé 247" class="cls-2" d="M0,.125H122.058" transform="translate(-93.028 658.018)"/>
+    <path id="Tracé_271" data-name="Tracé 271" class="cls-2" d="M0,.032H78.31" transform="translate(37.66 697.918)"/>
+    <path id="Tracé_227" data-name="Tracé 227" class="cls-1" d="M0,.032H78.31" transform="translate(34.66 612.018)"/>
+    <path id="Tracé_243" data-name="Tracé 243" class="cls-2" d="M0,.032H78.31" transform="translate(12.66 648.018)"/>
+    <path id="Tracé_259" data-name="Tracé 259" class="cls-2" d="M0,.032H25.31" transform="translate(65.66 678.068)"/>
+    <path id="Tracé_257" data-name="Tracé 257" class="cls-2" d="M0,.032H25.31" transform="translate(40.66 667.868)"/>
+    <path id="Tracé_239" data-name="Tracé 239" class="cls-1" d="M22.53.1H0" transform="translate(86.907 632.686) rotate(180)"/>
+    <path id="Tracé_241" data-name="Tracé 241" class="cls-1" d="M102.139.1H0" transform="translate(10.907 632.686) rotate(180)"/>
+    <path id="Tracé_269" data-name="Tracé 269" class="cls-1" d="M22.53.1H0" transform="translate(102.907 688.686) rotate(180)"/>
+    <path id="Tracé_249" data-name="Tracé 249" class="cls-1" d="M22.53,0H0" transform="translate(81.907 656.389) rotate(180)"/>
+    <path id="Tracé_267" data-name="Tracé 267" class="cls-2" d="M0,3.158H16.48" transform="translate(27.43 685.396) rotate(38.8)"/>
+    <path id="Tracé_229" data-name="Tracé 229" class="cls-1" d="M0,0H16.48" transform="matrix(0.779, -0.627, 0.627, 0.779, 22.451, 622.144)"/>
+    <path id="Tracé_245" data-name="Tracé 245" class="cls-2" d="M0,0H16.48" transform="matrix(0.779, -0.627, 0.627, 0.779, 0.451, 658.144)"/>
+    <path id="Tracé_261" data-name="Tracé 261" class="cls-2" d="M0,0H16.48" transform="matrix(-0.779, 0.627, -0.627, -0.779, 66.294, 677.856)"/>
+    <path id="Tracé_233" data-name="Tracé 233" class="cls-1" d="M0,.834H17.563" transform="translate(64.212 633.164) rotate(-143.2)"/>
+    <path id="Tracé_263" data-name="Tracé 263" class="cls-1" d="M0,.834H17.563" transform="translate(80.212 689.164) rotate(-143.2)"/>
+    <path id="Tracé_251" data-name="Tracé 251" class="cls-1" d="M0,.078H.479L18.372,0l.8,0" transform="translate(59.711 656.479) rotate(143.2)"/>
+    <path id="Tracé_253" data-name="Tracé 253" class="cls-2" d="M0,0H16.48" transform="translate(41.294 668.144) rotate(-141.2)"/>
+    <path id="Tracé_255" data-name="Tracé 255" class="cls-1" d="M0,0H0L.755.023,2.417.066l90.25,2.452,4.029.107" transform="matrix(-0.779, -0.627, 0.627, -0.779, 6.534, 674.686)"/>
+    <g id="Ellipse_128" data-name="Ellipse 128" class="cls-1" transform="translate(88 675)">
+      <circle class="cls-4" cx="3" cy="3" r="3"/>
+      <circle class="cls-5" cx="3" cy="3" r="2.5"/>
+    </g>
+    <g id="Ellipse_116" data-name="Ellipse 116" class="cls-3" transform="translate(86 631)">
+      <circle class="cls-4" cx="1.5" cy="1.5" r="1.5"/>
+      <circle class="cls-5" cx="1.5" cy="1.5" r="1.25"/>
+    </g>
+    <g id="Ellipse_118" data-name="Ellipse 118" class="cls-3" transform="translate(10 631)">
+      <circle class="cls-4" cx="1.5" cy="1.5" r="1.5"/>
+      <circle class="cls-5" cx="1.5" cy="1.5" r="1.25"/>
+    </g>
+    <g id="Ellipse_130" data-name="Ellipse 130" class="cls-3" transform="translate(102 687)">
+      <circle class="cls-4" cx="1.5" cy="1.5" r="1.5"/>
+      <circle class="cls-5" cx="1.5" cy="1.5" r="1.25"/>
+    </g>
+    <g id="Ellipse_122" data-name="Ellipse 122" class="cls-3" transform="translate(81 654.975)">
+      <ellipse class="cls-4" cx="1.5" cy="1.5" rx="1.5" ry="1.5"/>
+      <ellipse class="cls-5" cx="1.5" cy="1.5" rx="1.25" ry="1.25"/>
+    </g>
+    <g id="Ellipse_124" data-name="Ellipse 124" class="cls-1" transform="translate(63 665)">
+      <ellipse class="cls-4" cx="3" cy="3" rx="3" ry="3"/>
+      <ellipse class="cls-5" cx="3" cy="3" rx="2.5" ry="2.5"/>
+    </g>
+    <g id="Ellipse_126" data-name="Ellipse 126" class="cls-3" transform="translate(8.497 676.686) rotate(180)">
+      <circle class="cls-4" cx="1.5" cy="1.5" r="1.5"/>
+      <circle class="cls-5" cx="1.5" cy="1.5" r="1.25"/>
+    </g>
+    <g id="Ellipse_132" data-name="Ellipse 132" class="cls-1" transform="translate(113 695)">
+      <circle class="cls-4" cx="3" cy="3" r="3"/>
+      <circle class="cls-5" cx="3" cy="3" r="2.5"/>
+    </g>
+    <g id="Ellipse_111" data-name="Ellipse 111" class="cls-1" transform="translate(110 609)">
+      <circle class="cls-4" cx="3" cy="3" r="3"/>
+      <circle class="cls-5" cx="3" cy="3" r="2.5"/>
+    </g>
+    <g id="Ellipse_120" data-name="Ellipse 120" class="cls-1" transform="translate(88 645)">
+      <ellipse class="cls-4" cx="3" cy="3" rx="3" ry="3"/>
+      <ellipse class="cls-5" cx="3" cy="3" rx="2.5" ry="2.5"/>
+    </g>
+  </g>
+</svg>
